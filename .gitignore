@@ -39,3 +39,8 @@ docs/.jekyll-metadata
 # Folders to ignore
 bower_components
 node_modules
+
+# I dunno why I have to add these
+Gemfile.lock
+dist/css/
+dist/js/
